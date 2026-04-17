@@ -1,23 +1,17 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║             F  E  D  E  R  I  C  O     K  L  I  K  A  Y  L  O           ║ -->
-<!-- ║                    Full-Stack Engineer • Buenos Aires                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Federico%20Klikaylo&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Shopify%20Partner&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Federico%20Klikaylo&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Shopify%20%2B%20React%20%2B%20Node&descAlignY=60&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=840&lines=Hey+there%2C+I'm+Fede+%F0%9F%91%8B;Turning+briefs+into+products+%E2%80%94+fast+%26+clean;Shopify+%E2%9A%A1+React+%E2%9A%A1+Node+%E2%9A%A1+Python+%E2%9A%A1+AI;Ownership-first%2C+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=840&lines=Hey+there%2C+I'm+Fede+%F0%9F%91%8B;Full-Stack+Engineer+from+Buenos+Aires;Turning+briefs+into+products+%E2%80%94+fast+%26+clean;Shopify+%E2%9A%A1+React+%E2%9A%A1+Node+%E2%9A%A1+Python+%E2%9A%A1+AI;Ownership-first%2C+always." alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <a href="https://klikaylo.dev"><img src="https://img.shields.io/badge/Portfolio-klikaylo.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:fedegklika10@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.workana.com/freelancer/5cf5cbd96eaa9a2dce8aa75b27e2fa55"><img src="https://img.shields.io/badge/Workana-GOLD%20%E2%AD%90%205.0-FFB700?style=for-the-badge&logo=workplace&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Workana-GOLD%20%E2%AD%90-FFB700?style=for-the-badge&logo=workplace&logoColor=white">
 <img src="https://komarev.com/ghpvc/?username=fedegklika&label=Profile%20views&color=6366F1&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/fedegklika?label=Followers&style=for-the-badge&color=6366F1">
 
 <br>
 
@@ -33,18 +27,16 @@ role: Full-Stack Engineer & Automation Specialist
 location: 🇦🇷 Buenos Aires, Argentina
 languages: [Spanish (native), English (advanced), Portuguese (advanced)]
 focus:
-  - Shopify themes & apps (Plus, Hydrogen, Liquid, Polaris)
+  - Shopify themes & apps (Plus, Hydrogen, Liquid)
   - Full-stack web apps (React, Next.js, Node, Python)
-  - CRM & marketing automation (n8n, Make, Klaviyo, Kommo)
+  - CRM & marketing automation (n8n, Make, Klaviyo)
   - WhatsApp Business API, OpenAI & Claude integrations
 currently_building:
   - AI agents for e-commerce operations
-  - Reusable SaaS templates with Supabase + Stripe
+  - Reusable SaaS starters with Supabase + Stripe
   - Shopify custom theme components
 mantra: "Ownership from day one — when I deliver, it's 100% yours."
 ```
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
@@ -55,24 +47,21 @@ mantra: "Ownership from day one — when I deliver, it's 100% yours."
 <div align="center">
 
 ### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,bash,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,bash&theme=dark" />
 
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,astro,svelte&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite,astro&theme=dark" />
 
 ### 🟢 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,graphql,prisma,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,graphql,prisma&theme=dark" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,mongodb&theme=dark" />
 
 ### ☁️ Infra & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,nginx,githubactions,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,nginx,githubactions,linux&theme=dark" />
 
-### 🤖 Automation & AI
-<img src="https://skillicons.dev/icons?i=openai,regex,workflows,postman,selenium&theme=dark" />
-
-### 🛍️ E-commerce & CMS
+### 🛍️ E-commerce & Marketing
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -81,11 +70,14 @@ mantra: "Ownership from day one — when I deliver, it's 100% yours."
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-### 🎨 Design & Testing
-<img src="https://skillicons.dev/icons?i=figma,playwright,jest,vitest,cypress&theme=dark" />
+### 🤖 AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,postman&theme=dark" />
+### 🛠️ Tools & Testing
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,playwright&theme=dark" />
 
 </div>
 
@@ -95,6 +87,8 @@ mantra: "Ownership from day one — when I deliver, it's 100% yours."
 
 ## 🚀 Featured Projects
 
+> Full case studies with screenshots and results available at **[klikaylo.dev](https://klikaylo.dev)**
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -102,7 +96,7 @@ mantra: "Ownership from day one — when I deliver, it's 100% yours."
 ### 🛍️ AutoFlow Commerce
 **WhatsApp + CRM orchestrator for retail chains**
 
-Handles **2,400+** daily conversations across 12 storefronts. Cart recovery **+35%**, seamless human handoff, real-time CRM sync.
+Scalable conversational operations layer for multi-store retail. Routing, classification and human handoff — powered by n8n + WhatsApp Cloud API.
 
 `Node.js` `n8n` `WhatsApp Cloud API` `PostgreSQL` `Redis`
 
@@ -110,9 +104,9 @@ Handles **2,400+** daily conversations across 12 storefronts. Cart recovery **+3
 <td width="50%" valign="top">
 
 ### 🧠 Genesis Web + Chatbot
-**WordPress platform with AI chatbot live**
+**WordPress platform with live AI chatbot**
 
-20+ pages, AI-powered lead qualification, CRM integration. Support queries answered in seconds, **60%+** deflection.
+Corporate platform with content pages, services directory and an AI assistant that qualifies leads and answers FAQ.
 
 `WordPress` `OpenAI` `PHP` `MySQL` `Divi`
 
@@ -124,7 +118,7 @@ Handles **2,400+** daily conversations across 12 storefronts. Cart recovery **+3
 ### 💄 DermaPro Store
 **Shopify Plus with subscriptions**
 
-Beauty e-commerce with **+32% retention**, multi-currency checkout, Klaviyo flows for retention & win-back.
+Beauty e-commerce with subscriptions, multi-currency checkout, Klaviyo flows for retention and win-back.
 
 `Shopify Plus` `Liquid` `Klaviyo` `Stripe`
 
@@ -134,7 +128,7 @@ Beauty e-commerce with **+32% retention**, multi-currency checkout, Klaviyo flow
 ### 🏠 Bambua Home
 **D2C home goods brand**
 
-Shopify + Klaviyo with **+18% AOV** after UX rework. Abandoned cart + back-in-stock flows shipping revenue daily.
+Shopify + Klaviyo build with UX rework and email automation — abandoned cart + back-in-stock + VIP tiers.
 
 `Shopify` `Klaviyo` `Tailwind` `Liquid`
 
@@ -146,7 +140,7 @@ Shopify + Klaviyo with **+18% AOV** after UX rework. Abandoned cart + back-in-st
 ### 📱 HooPay iOS
 **React Native fintech app**
 
-Published on the App Store with CI/CD via Fastlane + TestFlight. Payment flow, auth, real-time ledger.
+Published on the App Store with CI/CD via Fastlane + TestFlight. Auth, payments, transactions ledger.
 
 `React Native` `Expo` `Fastlane` `Node.js`
 
@@ -156,7 +150,7 @@ Published on the App Store with CI/CD via Fastlane + TestFlight. Payment flow, a
 ### ⚙️ CRM Automation Suite
 **Multi-channel automation pipelines**
 
-Make + Kommo + n8n orchestration. Qualifies leads, routes conversations, triggers follow-ups across WhatsApp, email and SMS.
+Make + Kommo + n8n orchestration. Lead qualification, follow-ups and sync across WhatsApp, email and SMS.
 
 `Make.com` `n8n` `Kommo` `Python`
 
@@ -168,7 +162,7 @@ Make + Kommo + n8n orchestration. Qualifies leads, routes conversations, trigger
 ### ☁️ CloudSync Platform
 **Multi-tenant SaaS with Stripe**
 
-Multi-tenant architecture, row-level security, Stripe subscriptions with proration, webhooks hardened for retries.
+Multi-tenant architecture, row-level security, Stripe subscriptions with proration, hardened webhooks.
 
 `Node.js` `PostgreSQL` `Stripe` `Redis` `Docker`
 
@@ -178,7 +172,7 @@ Multi-tenant architecture, row-level security, Stripe subscriptions with prorati
 ### 🗺️ nabuh Map
 **Custom route mapping system**
 
-CodeIgniter + OpenStreetMap backend for real-time routing. Delivered in record time, reviewed ★★★★★.
+CodeIgniter + OpenStreetMap backend for real-time routing. Delivered fast, reviewed ★★★★★ on Workana.
 
 `PHP` `CodeIgniter` `OpenStreetMap` `MySQL`
 
@@ -187,7 +181,7 @@ CodeIgniter + OpenStreetMap backend for real-time routing. Delivered in record t
 </table>
 
 <div align="center">
-<a href="https://klikaylo.dev"><img src="https://img.shields.io/badge/See%20all%20on-klikaylo.dev-6366F1?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="https://klikaylo.dev"><img src="https://img.shields.io/badge/See%20case%20studies%20on-klikaylo.dev-6366F1?style=for-the-badge&logo=react&logoColor=white"></a>
 </div>
 
 <div align="center">
@@ -198,12 +192,12 @@ CodeIgniter + OpenStreetMap backend for real-time routing. Delivered in record t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedegklika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Fede's%20Stats" alt="Fede's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedegklika&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fedegklika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedegklika&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fedegklika&theme=tokyonight&hide_border=true&currStreakLabel=A4FFAF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fedegklika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
 
@@ -211,11 +205,7 @@ CodeIgniter + OpenStreetMap backend for real-time routing. Delivered in record t
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedegklika&bg_color=1a1b27&color=a9b1d6&line=bb9af7&point=70a5fd&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-<br>
-
-![Fede's GitHub Stats](https://raw.githubusercontent.com/fedegklika/fedegklika/main/metrics.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedegklika&bg_color=1a1b27&color=a9b1d6&line=bb9af7&point=70a5fd&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
 
@@ -256,26 +246,6 @@ federico.specialties = [
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
 </div>
 
-## 🏆 Track Record
-
-<div align="center">
-
-| Metric                          | Value                             |
-| ------------------------------- | --------------------------------- |
-| 🥇 Workana Argentina Ranking    | **#6 in IT & Programming**        |
-| 🌍 Workana Global IT Ranking    | **#98 out of 13.8M freelancers**  |
-| ⭐ Client Rating                | **5.0 / 5.0** — zero disputes     |
-| ✅ Projects Delivered           | **20+** with full satisfaction    |
-| 🎖️ Workana Level               | **GOLD** — verified payments      |
-| 📜 Certifications               | **13+** approved on platform      |
-| 🗣️ Languages                   | ES native · EN · PT               |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
-</div>
-
 ## 💬 Let's Connect
 
 <div align="center">
@@ -285,9 +255,6 @@ federico.specialties = [
 </a>
 <a href="mailto:fedegklika10@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.workana.com/freelancer/5cf5cbd96eaa9a2dce8aa75b27e2fa55">
-  <img src="https://img.shields.io/badge/Workana-FF9500?style=for-the-badge&logo=workplace&logoColor=white" alt="Workana" />
 </a>
 <a href="https://github.com/fedegklika">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -317,5 +284,5 @@ federico.specialties = [
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let's%20build%20something%20great%20%E2%9A%A1&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/fedegklika">fedegklika</a> with ☕ · Buenos Aires, Argentina</sub>
+  <sub>⭐ From <a href="https://github.com/fedegklika">fedegklika</a> · Buenos Aires, Argentina</sub>
 </div>
