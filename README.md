@@ -19,7 +19,7 @@
 
 </div>
 
-## 🧬 About Me
+## 🧬 About M
 
 ```yaml
 name: Federico Klikaylo
