@@ -228,49 +228,6 @@ CodeIgniter + OpenStreetMap backend for real-time routing. Delivered fast, revie
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/fedegklika">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=fedegklika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=480" alt="GitHub stats" />
-</a>
-<a href="https://github.com/fedegklika">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedegklika&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=340" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/fedegklika">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedegklika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=fedegklika&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedegklika&bg_color=1a1b27&color=a9b1d6&line=bb9af7&point=70a5fd&hide_border=true&area=true" alt="Activity graph" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3" alt="separator">
-</div>
-
 ## 🤝 How I Work
 
 ```ts
@@ -325,5 +282,3 @@ federico.specialties = [
 <div align="center">
   <sub>⭐ From <a href="https://github.com/fedegklika">fedegklika</a> · Buenos Aires, Argentina</sub>
 </div>
-
-<!-- Profile README — Federico Klikaylo · reindex: 2026-04-17 -->
