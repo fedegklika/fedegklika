@@ -325,3 +325,5 @@ federico.specialties = [
 <div align="center">
   <sub>⭐ From <a href="https://github.com/fedegklika">fedegklika</a> · Buenos Aires, Argentina</sub>
 </div>
+
+<!-- Profile README — Federico Klikaylo · reindex: 2026-04-17 -->
