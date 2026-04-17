@@ -320,15 +320,6 @@ federico.specialties = [
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37d7-4b0f-8106-4d9752d7f193.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-ce2f5922-3b30-4b8f-815b-89a99e43ac55.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80"/>
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let's%20build%20something%20great%20%E2%9A%A1&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <div align="center">
