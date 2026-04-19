@@ -22,7 +22,7 @@
 ## 🧬 About Me
 
 ```yaml
-name: Federico Klikayl
+name: Federico Klikaylo
 role: Full-Stack Engineer & Automation Specialist
 location: 🇦🇷 Buenos Aires, Argentina
 languages: [Spanish (native), English (advanced), Portuguese (advanced)]
